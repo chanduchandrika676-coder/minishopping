@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "205710327097",
+    "firebase_url": "https://fir-72f37-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-72f37",
+    "storage_bucket": "fir-72f37.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205710327097:android:43708dc6d37a1a90aabce8",
+        "android_client_info": {
+          "package_name": "com.example.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205710327097-7bdd63tn1q06hpiuffl8161ggk80eboi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android",
+            "certificate_hash": "abcdef0123456789abcdef0123456789abcdef01"
+          }
+        },
+        {
+          "client_id": "205710327097-q2cpj0ncanb83t82e221c65c9lhbg339.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSv_nEqOnnO7ohxwi0XrHNSTRqkhwzyw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205710327097-q2cpj0ncanb83t82e221c65c9lhbg339.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
